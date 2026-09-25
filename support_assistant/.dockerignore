@@ -1,0 +1,6 @@
+__pycache__
+*.pyc
+.ipynb_checkpoints
+chroma_db
+.env
+module3_builder.ipynb
