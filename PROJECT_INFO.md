@@ -7,3 +7,5 @@ This repository contains three modules:
 3. Support Assistant
 
 All modules are submitted together in one repository.
+
+The project uses a modular structure for reproducibility and evaluation.
